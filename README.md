@@ -1,2 +1,2 @@
-# SSLKeystore
-Library that allows you to manage SSL key and certificat using OpenSSL
+# TLSKeystore
+Library that allows you to manage TLS key and certificat using OpenSSL
